@@ -416,3 +416,14 @@ Below are excerpts of some of the articles that I personally think are very good
 - [Designing very large (JavaScript) applications](https://medium.com/@cramforce/designing-very-large-javascript-applications-6e013a3291a3): high-rise
 - [Building a professional design tool on the web](https://www.figma.com/blog/building-a-professional-design-tool-on-the-web/): How to use web technologies to create a design /render system
 - [Crafting Interpreters](https://craftinginterpreters.com/): details how to implement an interpreter
+
+
+
+
+
+
+
+
+This resources are taken from this repository: https://github.com/alienzhou/frontend-tech-list
+all credit goes to @alienzhou.
+I just translated it in english.
